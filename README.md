@@ -4,6 +4,8 @@ This is a CAD design for an aquarium stand using [OpenSCAD](http://www.openscad.
 The aquarium design is based off of a few different youtube videos. Here is a link to one of the few videos used for this 
 design - https://www.youtube.com/watch?v=wPMn0xXjZF4
 
+![](Aquarium.png "Aquarium Stand")
+
 # Getting Started
 * Download and Install OpenSCAD (created with version 2015.03-2)
 * Download the `Aquarium Stand.scad` file from this repository
